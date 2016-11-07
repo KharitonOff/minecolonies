@@ -137,3 +137,4 @@ PR's (pull requests) are required to get code onto the develop and master branch
 To do this, the easiest way is to download [sourcetree](http://www.sourcetreeapp.com/) or [gitkraken](https://www.gitkraken.com/). Install it, and add a repository (either clone, or select working directory)
 Then, click on branch, and create a new one. You can push to your own branch! Make sure your branch is selected, before you push! [Example](http://gyazo.com/4b453a55a8baf59f573bb1c4636a5ca2) So it should be big black. Once you are satisfied, go to [github](https://github.com/Minecolonies/minecolonies/compare), and create a pull request.
 
+just for testing cases
